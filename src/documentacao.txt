@@ -1,0 +1,5 @@
+Este é um documento que diz que ocorrerá um desenvolvimento de algum tipo aqui.
+Portanto é de extrema importancia que seja escrito código no repositório git e que ocorram commits.
+
+Aqui vai um exemplo de texto que não tem quaisquer sentido, não deve ser possivel interpreta-lo:
+"Uno, dos, tres, quatorze!"(Vox, Bonno) Quantas mais palavras seriam necessárias? Uno, dos, tres!
